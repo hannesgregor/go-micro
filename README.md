@@ -1,4 +1,4 @@
-Ongoing project - Learning what Microservices are and when to use them
+#**Ongoing project - Learning what Microservices are and when to use them**
 
 Developping loosely coupled, single purpose applications which work together as a distributed application
 
