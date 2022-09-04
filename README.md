@@ -1,6 +1,6 @@
  **Ongoing project - Learning what Microservices are and when to use them**
 
-* Developping loosely coupled, single purpose applications which work together as a distributed applicati
+* Developing loosely coupled, single purpose applications which work together as a distributed applicati
 
 * Communicate between services using JSON, Remote Procedure Calls, and gRPC
 
